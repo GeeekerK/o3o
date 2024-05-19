@@ -1,7 +1,6 @@
-O3O
+<h1 align="center">O3O</h1>
 
 ![](logo.jpg)
-
 
 ----
 
